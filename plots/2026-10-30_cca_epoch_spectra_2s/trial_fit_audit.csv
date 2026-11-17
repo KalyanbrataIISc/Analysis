@@ -1,0 +1,101 @@
+uid,game,condition,samples,duration_seconds,status,logged_fits_covering_trial
+eeg_20261030_114700/trial1,Paddle v2,Right initial cue,7490,29.96,ok,301
+eeg_20261030_114700/trial2,Paddle v2,Left initial cue,6593,26.372,ok,265
+eeg_20261030_114700/trial3,Paddle v2,Left initial cue,1426,5.704,ok,58
+eeg_20261030_114700/trial4,Paddle v2,Right initial cue,6437,25.748,ok,258
+eeg_20261030_114700/trial5,Paddle v2,Left initial cue,3858,15.432,ok,156
+eeg_20261030_114700/trial6,Paddle v2,Left initial cue,5580,22.32,ok,224
+eeg_20261030_114700/trial7,Paddle v2,Right initial cue,7492,29.968,ok,301
+eeg_20261030_114700/trial8,Paddle v2,Right initial cue,3591,14.364,ok,144
+eeg_20261030_114700/trial9,Paddle v2,Left initial cue,5737,22.948,ok,230
+eeg_20261030_114700/trial10,Paddle v2,Right initial cue,4770,19.08,ok,192
+eeg_20261030_114700/trial11,Paddle v2,Right initial cue,7490,29.96,ok,300
+eeg_20261030_114700/trial12,Paddle v2,Left initial cue,2358,9.432,ok,95
+eeg_20261030_114700/trial13,Paddle v2,Left initial cue,1646,6.584,ok,67
+eeg_20261030_114700/trial14,Paddle v2,Right initial cue,6882,27.528,ok,276
+eeg_20261030_114700/trial15,Paddle v2,Left initial cue,7489,29.956,ok,301
+eeg_20261030_114700/trial16,Paddle v2,Right initial cue,6200,24.8,ok,249
+eeg_20261030_114700/trial17,Paddle v2,Left initial cue,686,2.744,ok,28
+eeg_20261030_114700/trial18,Paddle v2,Left initial cue,1535,6.14,ok,63
+eeg_20261030_114700/trial19,Paddle v2,Right initial cue,7345,29.38,ok,294
+eeg_20261030_114700/trial20,Paddle v2,Right initial cue,3783,15.132,ok,153
+eeg_20261030_114700/trial21,Paddle v2,Right initial cue,7490,29.96,ok,300
+eeg_20261030_114700/trial22,Paddle v2,Left initial cue,1838,7.352,ok,74
+eeg_20261030_114700/trial23,Paddle v2,Left initial cue,6955,27.82,ok,279
+eeg_20261030_114700/trial24,Paddle v2,Right initial cue,7493,29.972,ok,301
+eeg_20261030_120516/trial1,Paddle v2,Right initial cue,2658,10.632,ok,108
+eeg_20261030_120516/trial2,Paddle v2,Left initial cue,728,2.912,ok,30
+eeg_20261030_120516/trial3,Paddle v2,Left initial cue,3449,13.796,ok,139
+eeg_20261030_120516/trial4,Paddle v2,Left initial cue,2546,10.184,ok,103
+eeg_20261030_120516/trial5,Paddle v2,Right initial cue,7489,29.956,ok,300
+eeg_20261030_120516/trial6,Paddle v2,Left initial cue,1975,7.9,ok,80
+eeg_20261030_120516/trial7,Paddle v2,Right initial cue,7491,29.964,ok,301
+eeg_20261030_120516/trial8,Paddle v2,Right initial cue,7491,29.964,ok,301
+eeg_20261030_120516/trial9,Paddle v2,Right initial cue,6366,25.464,ok,255
+eeg_20261030_120516/trial10,Paddle v2,Left initial cue,589,2.356,ok,25
+eeg_20261030_120516/trial11,Paddle v2,Right initial cue,7489,29.956,ok,301
+eeg_20261030_120516/trial12,Paddle v2,Left initial cue,6703,26.812,ok,269
+eeg_20261030_120516/trial13,Paddle v2,Left initial cue,4088,16.352,ok,164
+eeg_20261030_120516/trial14,Paddle v2,Left initial cue,1195,4.78,ok,49
+eeg_20261030_120516/trial15,Paddle v2,Right initial cue,7491,29.964,ok,301
+eeg_20261030_120516/trial16,Paddle v2,Right initial cue,7490,29.96,ok,300
+eeg_20261030_120516/trial17,Paddle v2,Right initial cue,3221,12.884,ok,130
+eeg_20261030_120516/trial18,Paddle v2,Left initial cue,4512,18.048,ok,182
+eeg_20261030_120516/trial19,Paddle v2,Right initial cue,4975,19.9,ok,200
+eeg_20261030_120516/trial20,Paddle v2,Left initial cue,853,3.412,ok,35
+eeg_20261030_120516/trial21,Paddle v2,Left initial cue,4622,18.488,ok,186
+eeg_20261030_120516/trial22,Paddle v2,Left initial cue,5922,23.688,ok,238
+eeg_20261030_120516/trial23,Paddle v2,Right initial cue,4261,17.044,ok,171
+eeg_20261030_120516/trial24,Paddle v2,Right initial cue,7490,29.96,ok,301
+eeg_20261030_121520/trial1,Leaf,C1 / Pointing,3746,14.984,ok,151
+eeg_20261030_121520/trial2,Leaf,C2 / Moving,2484,9.936,ok,101
+eeg_20261030_121520/trial3,Leaf,C1 / Pointing,3749,14.996,ok,151
+eeg_20261030_121520/trial4,Leaf,C2 / Moving,3745,14.98,ok,151
+eeg_20261030_121520/trial5,Leaf,C2 / Moving,3747,14.988,ok,151
+eeg_20261030_121520/trial6,Leaf,C2 / Moving,1739,6.956,ok,70
+eeg_20261030_121520/trial7,Leaf,C1 / Pointing,3747,14.988,ok,151
+eeg_20261030_121520/trial8,Leaf,C2 / Moving,1432,5.728,ok,58
+eeg_20261030_121520/trial9,Leaf,C2 / Moving,1523,6.092,ok,62
+eeg_20261030_121520/trial10,Leaf,C2 / Moving,3519,14.076,ok,142
+eeg_20261030_121520/trial11,Leaf,C1 / Pointing,3747,14.988,ok,151
+eeg_20261030_121520/trial12,Leaf,C1 / Pointing,3747,14.988,ok,151
+eeg_20261030_121520/trial13,Leaf,C1 / Pointing,3747,14.988,ok,150
+eeg_20261030_121520/trial14,Leaf,C1 / Pointing,3746,14.984,ok,151
+eeg_20261030_121520/trial15,Leaf,C1 / Pointing,3747,14.988,ok,151
+eeg_20261030_121520/trial16,Leaf,C2 / Moving,1654,6.616,ok,67
+eeg_20261030_121520/trial17,Leaf,C1 / Pointing,3746,14.984,ok,150
+eeg_20261030_121520/trial18,Leaf,C1 / Pointing,3747,14.988,ok,150
+eeg_20261030_121520/trial19,Leaf,C2 / Moving,3745,14.98,ok,151
+eeg_20261030_121520/trial20,Leaf,C2 / Moving,1659,6.636,ok,68
+eeg_20261030_121520/trial21,Leaf,C1 / Pointing,2748,10.992,ok,111
+eeg_20261030_121520/trial22,Leaf,C2 / Moving,1193,4.772,ok,49
+eeg_20261030_121520/trial23,Leaf,C1 / Pointing,3746,14.984,ok,151
+eeg_20261030_121520/trial24,Leaf,C2 / Moving,3711,14.844,ok,150
+eeg_20261030_122929/trial1,Leaf,C1 / Pointing,3745,14.98,ok,150
+eeg_20261030_122929/trial2,Leaf,C2 / Moving,2094,8.376,ok,85
+eeg_20261030_122929/trial3,Leaf,C1 / Pointing,3746,14.984,ok,151
+eeg_20261030_122929/trial4,Leaf,C1 / Pointing,3746,14.984,ok,151
+eeg_20261030_122929/trial5,Leaf,C2 / Moving,3659,14.636,ok,147
+eeg_20261030_122929/trial6,Leaf,C1 / Pointing,3746,14.984,ok,150
+eeg_20261030_122929/trial7,Leaf,C2 / Moving,2188,8.752,ok,88
+eeg_20261030_122929/trial8,Leaf,C1 / Pointing,3747,14.988,ok,150
+eeg_20261030_122929/trial9,Leaf,C2 / Moving,2240,8.96,ok,90
+eeg_20261030_122929/trial10,Leaf,C2 / Moving,3477,13.908,ok,140
+eeg_20261030_122929/trial11,Leaf,C2 / Moving,2789,11.156,ok,112
+eeg_20261030_122929/trial12,Leaf,C1 / Pointing,3747,14.988,ok,151
+eeg_20261030_122929/trial13,Leaf,C1 / Pointing,2646,10.584,ok,107
+eeg_20261030_122929/trial14,Leaf,C1 / Pointing,3747,14.988,ok,151
+eeg_20261030_122929/trial15,Leaf,C2 / Moving,3747,14.988,ok,151
+eeg_20261030_122929/trial16,Leaf,C1 / Pointing,2444,9.776,ok,99
+eeg_20261030_122929/trial17,Leaf,C2 / Moving,3748,14.992,ok,151
+eeg_20261030_122929/trial18,Leaf,C2 / Moving,1317,5.268,ok,54
+eeg_20261030_122929/trial19,Leaf,C1 / Pointing,3747,14.988,ok,151
+eeg_20261030_122929/trial20,Leaf,C2 / Moving,1288,5.152,ok,53
+eeg_20261030_122929/trial21,Leaf,C2 / Moving,1788,7.152,ok,72
+eeg_20261030_122929/trial22,Leaf,C1 / Pointing,2959,11.836,ok,119
+eeg_20261030_122929/trial23,Leaf,C1 / Pointing,3747,14.988,ok,150
+eeg_20261030_122929/trial24,Leaf,C2 / Moving,1228,4.912,ok,50
+eeg_20261030_124401/trial21,Paddle v2,Right initial cue,1441,5.764,ok,59
+eeg_20261030_124401/trial22,Paddle v2,Right initial cue,591,2.364,ok,25
+eeg_20261030_124401/trial23,Paddle v2,Right initial cue,4515,18.06,ok,181
+eeg_20261030_124401/trial24,Paddle v2,Left initial cue,3292,13.168,ok,133

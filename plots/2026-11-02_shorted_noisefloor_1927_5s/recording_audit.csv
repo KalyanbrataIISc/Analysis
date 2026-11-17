@@ -1,0 +1,2 @@
+session,label,start_time,source,channels,sample_rate_hz,samples,observed_seconds,wall_duration_seconds,first_seq,last_seq,signal_gap_events,nonfinite_values,nonzero_markers,raw_samples,filtered_samples,feature_rows,logged_cca_updates,duplicate_cca_rows,median_cca_hop_seconds
+eeg_20261102_192708,250sps raw shorted noise floor,2026-11-02 19:27:08,"raw, unfiltered",8,250.0,150029,600.116,601.028,12830,162858,0,0,0,150029,0,0,0,0,

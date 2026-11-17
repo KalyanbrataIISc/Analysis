@@ -1,0 +1,29 @@
+{
+  "session": "eeg_20261102_183146",
+  "label": "250sps 5Hz NF with cap",
+  "selected_channels": [
+    "C9",
+    "C10",
+    "C11",
+    "C12",
+    "C13",
+    "C14",
+    "C15",
+    "C16"
+  ],
+  "recorded_channels": [
+    "C9",
+    "C10",
+    "C11",
+    "C12",
+    "C13",
+    "C14",
+    "C15",
+    "C16"
+  ],
+  "sample_rate_hz": 250.0,
+  "epoch_seconds": 5.0,
+  "source": "board-filtered",
+  "raw_preprocessing": "counts * metadata uv_per_count; no offline filter",
+  "polarity_anchor": "C16"
+}

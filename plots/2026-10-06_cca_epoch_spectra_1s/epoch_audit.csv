@@ -1,0 +1,1221 @@
+uid,game,condition,epoch,start_seconds,observed_samples,padded_samples,complete
+eeg_20261006_153213/trial1,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial1,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial1,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial1,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial1,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial1,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial1,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_153213/trial1,Paddle,Right target,8,7.0,250,0,True
+eeg_20261006_153213/trial1,Paddle,Right target,9,8.0,250,0,True
+eeg_20261006_153213/trial1,Paddle,Right target,10,9.0,250,0,True
+eeg_20261006_153213/trial2,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial2,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial2,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial2,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial2,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial2,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial2,Paddle,Left target,7,6.0,54,196,False
+eeg_20261006_153213/trial3,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial3,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial3,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial3,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial3,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial3,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial3,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial3,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial3,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial3,Paddle,Left target,10,9.0,243,7,False
+eeg_20261006_153213/trial4,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial4,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial4,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial4,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial4,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial4,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial4,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial4,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial4,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial4,Paddle,Left target,10,9.0,250,0,True
+eeg_20261006_153213/trial5,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial5,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial5,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial5,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial5,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial5,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial5,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_153213/trial5,Paddle,Right target,8,7.0,250,0,True
+eeg_20261006_153213/trial5,Paddle,Right target,9,8.0,250,0,True
+eeg_20261006_153213/trial5,Paddle,Right target,10,9.0,250,0,True
+eeg_20261006_153213/trial5,Paddle,Right target,11,10.0,4,246,False
+eeg_20261006_153213/trial6,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial6,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial6,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial6,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial6,Paddle,Right target,5,4.0,94,156,False
+eeg_20261006_153213/trial7,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial7,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial7,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial7,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial7,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial7,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial7,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial7,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial7,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial7,Paddle,Left target,10,9.0,103,147,False
+eeg_20261006_153213/trial8,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial8,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial8,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial8,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial8,Paddle,Left target,5,4.0,138,112,False
+eeg_20261006_153213/trial9,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial9,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial9,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial9,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial9,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial9,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial9,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_153213/trial9,Paddle,Right target,8,7.0,250,0,True
+eeg_20261006_153213/trial9,Paddle,Right target,9,8.0,250,0,True
+eeg_20261006_153213/trial9,Paddle,Right target,10,9.0,249,1,False
+eeg_20261006_153213/trial10,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial10,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial10,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial10,Paddle,Right target,4,3.0,18,232,False
+eeg_20261006_153213/trial11,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial11,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial11,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial11,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial11,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial11,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial11,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial11,Paddle,Left target,8,7.0,233,17,False
+eeg_20261006_153213/trial12,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial12,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial12,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial12,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial12,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial12,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial12,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_153213/trial12,Paddle,Right target,8,7.0,250,0,True
+eeg_20261006_153213/trial12,Paddle,Right target,9,8.0,250,0,True
+eeg_20261006_153213/trial12,Paddle,Right target,10,9.0,249,1,False
+eeg_20261006_153213/trial13,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial13,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial13,Paddle,Right target,3,2.0,77,173,False
+eeg_20261006_153213/trial14,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial14,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial14,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial14,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial14,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial14,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial14,Paddle,Right target,7,6.0,53,197,False
+eeg_20261006_153213/trial15,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial15,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial15,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial15,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial15,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial15,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial15,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial15,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial15,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial15,Paddle,Left target,10,9.0,249,1,False
+eeg_20261006_153213/trial16,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial16,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial16,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial16,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial16,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial16,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial16,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_153213/trial16,Paddle,Right target,8,7.0,250,0,True
+eeg_20261006_153213/trial16,Paddle,Right target,9,8.0,250,0,True
+eeg_20261006_153213/trial16,Paddle,Right target,10,9.0,247,3,False
+eeg_20261006_153213/trial17,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial17,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial17,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial17,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial17,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial17,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial17,Paddle,Left target,7,6.0,110,140,False
+eeg_20261006_153213/trial18,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial18,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial18,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial18,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial18,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial18,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial18,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial18,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial18,Paddle,Left target,9,8.0,92,158,False
+eeg_20261006_153213/trial19,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial19,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial19,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial19,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial19,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial19,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial19,Paddle,Right target,7,6.0,18,232,False
+eeg_20261006_153213/trial20,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial20,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial20,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial20,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial20,Paddle,Left target,5,4.0,64,186,False
+eeg_20261006_153213/trial21,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial21,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial21,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial21,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial21,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial21,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial21,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial21,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial21,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial21,Paddle,Left target,10,9.0,64,186,False
+eeg_20261006_153213/trial22,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial22,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial22,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial22,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial22,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial22,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial22,Paddle,Right target,7,6.0,52,198,False
+eeg_20261006_153213/trial23,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial23,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial23,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial23,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial23,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial23,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial23,Paddle,Right target,7,6.0,160,90,False
+eeg_20261006_153213/trial24,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial24,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial24,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial24,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial24,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial24,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial24,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial24,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial24,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial24,Paddle,Left target,10,9.0,247,3,False
+eeg_20261006_153213/trial25,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial25,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial25,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial25,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial25,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial25,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial25,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial25,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial25,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial25,Paddle,Left target,10,9.0,247,3,False
+eeg_20261006_153213/trial26,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial26,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial26,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial26,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial26,Paddle,Right target,5,4.0,173,77,False
+eeg_20261006_153213/trial27,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial27,Paddle,Right target,2,1.0,225,25,False
+eeg_20261006_153213/trial28,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial28,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial28,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial28,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial28,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial28,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial28,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_153213/trial28,Paddle,Right target,8,7.0,250,0,True
+eeg_20261006_153213/trial28,Paddle,Right target,9,8.0,250,0,True
+eeg_20261006_153213/trial28,Paddle,Right target,10,9.0,132,118,False
+eeg_20261006_153213/trial29,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial29,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial29,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial29,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial29,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial29,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial29,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial29,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial29,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial29,Paddle,Left target,10,9.0,246,4,False
+eeg_20261006_153213/trial30,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial30,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial30,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial30,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial30,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial30,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial30,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial30,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial30,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial30,Paddle,Left target,10,9.0,250,0,True
+eeg_20261006_153213/trial31,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial31,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial31,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial31,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial31,Paddle,Left target,5,4.0,120,130,False
+eeg_20261006_153213/trial32,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial32,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial32,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial32,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial32,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial32,Paddle,Right target,6,5.0,190,60,False
+eeg_20261006_153213/trial33,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial33,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial33,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial33,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial33,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial33,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial33,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_153213/trial33,Paddle,Right target,8,7.0,250,0,True
+eeg_20261006_153213/trial33,Paddle,Right target,9,8.0,250,0,True
+eeg_20261006_153213/trial33,Paddle,Right target,10,9.0,248,2,False
+eeg_20261006_153213/trial34,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial34,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial34,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial34,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial34,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial34,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial34,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_153213/trial34,Paddle,Right target,8,7.0,250,0,True
+eeg_20261006_153213/trial34,Paddle,Right target,9,8.0,250,0,True
+eeg_20261006_153213/trial34,Paddle,Right target,10,9.0,249,1,False
+eeg_20261006_153213/trial35,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial35,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial35,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial35,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial35,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial35,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial35,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial35,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial35,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial35,Paddle,Left target,10,9.0,247,3,False
+eeg_20261006_153213/trial36,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial36,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial36,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial36,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial36,Paddle,Left target,5,4.0,177,73,False
+eeg_20261006_153213/trial37,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial37,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial37,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial37,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial37,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial37,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial37,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_153213/trial37,Paddle,Right target,8,7.0,88,162,False
+eeg_20261006_153213/trial38,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial38,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial38,Paddle,Right target,3,2.0,84,166,False
+eeg_20261006_153213/trial39,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial39,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial39,Paddle,Right target,3,2.0,197,53,False
+eeg_20261006_153213/trial40,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial40,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial40,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial40,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial40,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial40,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial40,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial40,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial40,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial40,Paddle,Left target,10,9.0,247,3,False
+eeg_20261006_153213/trial41,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial41,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial41,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial41,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial41,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial41,Paddle,Left target,6,5.0,130,120,False
+eeg_20261006_153213/trial42,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial42,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial42,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial42,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial42,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial42,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial42,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial42,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial42,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial42,Paddle,Left target,10,9.0,249,1,False
+eeg_20261006_153213/trial43,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial43,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial43,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial43,Paddle,Right target,4,3.0,51,199,False
+eeg_20261006_153213/trial44,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial44,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial44,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial44,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial44,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial44,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial44,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial44,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_153213/trial44,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_153213/trial44,Paddle,Left target,10,9.0,239,11,False
+eeg_20261006_153213/trial45,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial45,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial45,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial45,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial45,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial45,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_153213/trial45,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_153213/trial45,Paddle,Right target,8,7.0,2,248,False
+eeg_20261006_153213/trial46,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial46,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial46,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial46,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial46,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial46,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial46,Paddle,Left target,7,6.0,164,86,False
+eeg_20261006_153213/trial47,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_153213/trial47,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_153213/trial47,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_153213/trial47,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_153213/trial47,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_153213/trial47,Paddle,Right target,6,5.0,133,117,False
+eeg_20261006_153213/trial48,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_153213/trial48,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_153213/trial48,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_153213/trial48,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_153213/trial48,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_153213/trial48,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_153213/trial48,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_153213/trial48,Paddle,Left target,8,7.0,49,201,False
+eeg_20261006_155629/trial1,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial1,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial1,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial1,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_155629/trial1,Paddle,Right target,5,4.0,164,86,False
+eeg_20261006_155629/trial2,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial2,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial2,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial2,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_155629/trial2,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_155629/trial2,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_155629/trial2,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_155629/trial2,Paddle,Right target,8,7.0,250,0,True
+eeg_20261006_155629/trial2,Paddle,Right target,9,8.0,187,63,False
+eeg_20261006_155629/trial3,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial3,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial3,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial3,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial3,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial3,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_155629/trial3,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_155629/trial3,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_155629/trial3,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_155629/trial3,Paddle,Left target,10,9.0,246,4,False
+eeg_20261006_155629/trial4,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial4,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial4,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial4,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_155629/trial4,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_155629/trial4,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_155629/trial4,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_155629/trial4,Paddle,Right target,8,7.0,250,0,True
+eeg_20261006_155629/trial4,Paddle,Right target,9,8.0,250,0,True
+eeg_20261006_155629/trial4,Paddle,Right target,10,9.0,248,2,False
+eeg_20261006_155629/trial5,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial5,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial5,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial5,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial5,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial5,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_155629/trial5,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_155629/trial5,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_155629/trial5,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_155629/trial5,Paddle,Left target,10,9.0,244,6,False
+eeg_20261006_155629/trial6,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial6,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial6,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial6,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_155629/trial6,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_155629/trial6,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_155629/trial6,Paddle,Right target,7,6.0,109,141,False
+eeg_20261006_155629/trial7,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial7,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial7,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial7,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial7,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial7,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_155629/trial7,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_155629/trial7,Paddle,Left target,8,7.0,243,7,False
+eeg_20261006_155629/trial8,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial8,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial8,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial8,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial8,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial8,Paddle,Left target,6,5.0,236,14,False
+eeg_20261006_155629/trial9,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial9,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial9,Paddle,Right target,3,2.0,26,224,False
+eeg_20261006_155629/trial10,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial10,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial10,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial10,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial10,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial10,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_155629/trial10,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_155629/trial10,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_155629/trial10,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_155629/trial10,Paddle,Left target,10,9.0,248,2,False
+eeg_20261006_155629/trial11,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial11,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial11,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial11,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial11,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial11,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_155629/trial11,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_155629/trial11,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_155629/trial11,Paddle,Left target,9,8.0,120,130,False
+eeg_20261006_155629/trial12,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial12,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial12,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial12,Paddle,Right target,4,3.0,91,159,False
+eeg_20261006_155629/trial13,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial13,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial13,Paddle,Right target,3,2.0,4,246,False
+eeg_20261006_155629/trial14,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial14,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial14,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial14,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial14,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial14,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_155629/trial14,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_155629/trial14,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_155629/trial14,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_155629/trial14,Paddle,Left target,10,9.0,246,4,False
+eeg_20261006_155629/trial15,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial15,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial15,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial15,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial15,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial15,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_155629/trial15,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_155629/trial15,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_155629/trial15,Paddle,Left target,9,8.0,121,129,False
+eeg_20261006_155629/trial16,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial16,Paddle,Right target,2,1.0,207,43,False
+eeg_20261006_155629/trial17,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial17,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial17,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial17,Paddle,Right target,4,3.0,224,26,False
+eeg_20261006_155629/trial18,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial18,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial18,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial18,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial18,Paddle,Left target,5,4.0,112,138,False
+eeg_20261006_155629/trial19,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial19,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial19,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial19,Paddle,Right target,4,3.0,28,222,False
+eeg_20261006_155629/trial20,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial20,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial20,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial20,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_155629/trial20,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_155629/trial20,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_155629/trial20,Paddle,Right target,7,6.0,22,228,False
+eeg_20261006_155629/trial21,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial21,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial21,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial21,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial21,Paddle,Left target,5,4.0,197,53,False
+eeg_20261006_155629/trial22,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial22,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial22,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial22,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial22,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial22,Paddle,Left target,6,5.0,218,32,False
+eeg_20261006_155629/trial23,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial23,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial23,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial23,Paddle,Right target,4,3.0,51,199,False
+eeg_20261006_155629/trial24,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial24,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial24,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial24,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial24,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial24,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_155629/trial24,Paddle,Left target,7,6.0,243,7,False
+eeg_20261006_155629/trial25,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial25,Paddle,Right target,2,1.0,239,11,False
+eeg_20261006_155629/trial26,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial26,Paddle,Right target,2,1.0,150,100,False
+eeg_20261006_155629/trial27,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial27,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial27,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial27,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial27,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial27,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_155629/trial27,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_155629/trial27,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_155629/trial27,Paddle,Left target,9,8.0,250,0,True
+eeg_20261006_155629/trial27,Paddle,Left target,10,9.0,249,1,False
+eeg_20261006_155629/trial28,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial28,Paddle,Right target,2,1.0,145,105,False
+eeg_20261006_155629/trial29,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial29,Paddle,Right target,2,1.0,224,26,False
+eeg_20261006_155629/trial30,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial30,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial30,Paddle,Right target,3,2.0,126,124,False
+eeg_20261006_155629/trial31,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial31,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial31,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial31,Paddle,Left target,4,3.0,199,51,False
+eeg_20261006_155629/trial32,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial32,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial32,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial32,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial32,Paddle,Left target,5,4.0,147,103,False
+eeg_20261006_155629/trial33,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial33,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial33,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial33,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial33,Paddle,Left target,5,4.0,196,54,False
+eeg_20261006_155629/trial34,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial34,Paddle,Right target,2,1.0,179,71,False
+eeg_20261006_155629/trial35,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial35,Paddle,Left target,2,1.0,183,67,False
+eeg_20261006_155629/trial36,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial36,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial36,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial36,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial36,Paddle,Left target,5,4.0,250,0,True
+eeg_20261006_155629/trial36,Paddle,Left target,6,5.0,250,0,True
+eeg_20261006_155629/trial36,Paddle,Left target,7,6.0,250,0,True
+eeg_20261006_155629/trial36,Paddle,Left target,8,7.0,250,0,True
+eeg_20261006_155629/trial36,Paddle,Left target,9,8.0,69,181,False
+eeg_20261006_155629/trial37,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial37,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial37,Paddle,Right target,3,2.0,138,112,False
+eeg_20261006_155629/trial38,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial38,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial38,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial38,Paddle,Right target,4,3.0,249,1,False
+eeg_20261006_155629/trial39,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial39,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial39,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial39,Paddle,Right target,4,3.0,67,183,False
+eeg_20261006_155629/trial40,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial40,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial40,Paddle,Left target,3,2.0,197,53,False
+eeg_20261006_155629/trial41,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial41,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial41,Paddle,Left target,3,2.0,8,242,False
+eeg_20261006_155629/trial42,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial42,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial42,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial42,Paddle,Left target,4,3.0,250,0,True
+eeg_20261006_155629/trial42,Paddle,Left target,5,4.0,124,126,False
+eeg_20261006_155629/trial43,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial43,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial43,Paddle,Right target,3,2.0,120,130,False
+eeg_20261006_155629/trial44,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial44,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial44,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial44,Paddle,Left target,4,3.0,15,235,False
+eeg_20261006_155629/trial45,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial45,Paddle,Right target,2,1.0,218,32,False
+eeg_20261006_155629/trial46,Paddle,Right target,1,0.0,250,0,True
+eeg_20261006_155629/trial46,Paddle,Right target,2,1.0,250,0,True
+eeg_20261006_155629/trial46,Paddle,Right target,3,2.0,250,0,True
+eeg_20261006_155629/trial46,Paddle,Right target,4,3.0,250,0,True
+eeg_20261006_155629/trial46,Paddle,Right target,5,4.0,250,0,True
+eeg_20261006_155629/trial46,Paddle,Right target,6,5.0,250,0,True
+eeg_20261006_155629/trial46,Paddle,Right target,7,6.0,250,0,True
+eeg_20261006_155629/trial46,Paddle,Right target,8,7.0,47,203,False
+eeg_20261006_155629/trial47,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial47,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial47,Paddle,Left target,3,2.0,48,202,False
+eeg_20261006_155629/trial48,Paddle,Left target,1,0.0,250,0,True
+eeg_20261006_155629/trial48,Paddle,Left target,2,1.0,250,0,True
+eeg_20261006_155629/trial48,Paddle,Left target,3,2.0,250,0,True
+eeg_20261006_155629/trial48,Paddle,Left target,4,3.0,87,163,False
+eeg_20261006_160348/trial1,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial1,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial1,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial1,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial1,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial1,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial1,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_160348/trial1,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_160348/trial1,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_160348/trial1,Leaf,C2 / Moving,10,9.0,113,137,False
+eeg_20261006_160348/trial2,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial2,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial2,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial2,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial2,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial2,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial2,Leaf,C2 / Moving,7,6.0,120,130,False
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_160348/trial3,Leaf,C2 / Moving,15,14.0,247,3,False
+eeg_20261006_160348/trial4,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial4,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial4,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial4,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial4,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial4,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial4,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_160348/trial4,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_160348/trial4,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_160348/trial4,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_160348/trial4,Leaf,C2 / Moving,11,10.0,82,168,False
+eeg_20261006_160348/trial5,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial5,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial5,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial5,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial5,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial5,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial5,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_160348/trial5,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_160348/trial5,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_160348/trial5,Leaf,C2 / Moving,10,9.0,40,210,False
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,14,13.0,250,0,True
+eeg_20261006_160348/trial6,Leaf,C1 / Pointing,15,14.0,247,3,False
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_160348/trial7,Leaf,C2 / Moving,15,14.0,247,3,False
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,14,13.0,250,0,True
+eeg_20261006_160348/trial8,Leaf,C1 / Pointing,15,14.0,249,1,False
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_160348/trial9,Leaf,C2 / Moving,15,14.0,201,49,False
+eeg_20261006_160348/trial10,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial10,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial10,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial10,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial10,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial10,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial10,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_160348/trial10,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_160348/trial10,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_160348/trial10,Leaf,C2 / Moving,10,9.0,204,46,False
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_160348/trial11,Leaf,C1 / Pointing,13,12.0,8,242,False
+eeg_20261006_160348/trial12,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial12,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial12,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial12,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial12,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial12,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial12,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_160348/trial12,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_160348/trial12,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_160348/trial12,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_160348/trial12,Leaf,C2 / Moving,11,10.0,126,124,False
+eeg_20261006_160348/trial13,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial13,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial13,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial13,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial13,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial13,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial13,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial13,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial13,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial13,Leaf,C1 / Pointing,10,9.0,162,88,False
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,14,13.0,250,0,True
+eeg_20261006_160348/trial14,Leaf,C1 / Pointing,15,14.0,247,3,False
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,14,13.0,250,0,True
+eeg_20261006_160348/trial15,Leaf,C1 / Pointing,15,14.0,249,1,False
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_160348/trial16,Leaf,C2 / Moving,15,14.0,247,3,False
+eeg_20261006_160348/trial17,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial17,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial17,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial17,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial17,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial17,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial17,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial17,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial17,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial17,Leaf,C1 / Pointing,10,9.0,18,232,False
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_160348/trial18,Leaf,C1 / Pointing,13,12.0,186,64,False
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_160348/trial19,Leaf,C2 / Moving,13,12.0,49,201,False
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,14,13.0,250,0,True
+eeg_20261006_160348/trial20,Leaf,C1 / Pointing,15,14.0,229,21,False
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_160348/trial21,Leaf,C2 / Moving,15,14.0,242,8,False
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,14,13.0,250,0,True
+eeg_20261006_160348/trial22,Leaf,C1 / Pointing,15,14.0,245,5,False
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,14,13.0,250,0,True
+eeg_20261006_160348/trial23,Leaf,C1 / Pointing,15,14.0,247,3,False
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_160348/trial24,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,14,13.0,250,0,True
+eeg_20261006_161145/trial1,Leaf,C1 / Pointing,15,14.0,245,5,False
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_161145/trial2,Leaf,C2 / Moving,15,14.0,248,2,False
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_161145/trial3,Leaf,C1 / Pointing,12,11.0,39,211,False
+eeg_20261006_161145/trial4,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial4,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial4,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial4,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial4,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial4,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial4,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_161145/trial4,Leaf,C2 / Moving,8,7.0,170,80,False
+eeg_20261006_161145/trial5,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial5,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial5,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial5,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial5,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial5,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_161145/trial5,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_161145/trial5,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_161145/trial5,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_161145/trial5,Leaf,C1 / Pointing,10,9.0,242,8,False
+eeg_20261006_161145/trial6,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial6,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial6,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial6,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial6,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial6,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial6,Leaf,C2 / Moving,7,6.0,209,41,False
+eeg_20261006_161145/trial7,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial7,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial7,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial7,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial7,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial7,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_161145/trial7,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_161145/trial7,Leaf,C1 / Pointing,8,7.0,223,27,False
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_161145/trial8,Leaf,C2 / Moving,15,14.0,246,4,False
+eeg_20261006_161145/trial9,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial9,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial9,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial9,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial9,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial9,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_161145/trial9,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_161145/trial9,Leaf,C1 / Pointing,8,7.0,104,146,False
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_161145/trial10,Leaf,C2 / Moving,15,14.0,247,3,False
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_161145/trial11,Leaf,C2 / Moving,15,14.0,127,123,False
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_161145/trial12,Leaf,C2 / Moving,15,14.0,248,2,False
+eeg_20261006_161145/trial13,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial13,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial13,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial13,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial13,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial13,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_161145/trial13,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_161145/trial13,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_161145/trial13,Leaf,C1 / Pointing,9,8.0,43,207,False
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_161145/trial14,Leaf,C2 / Moving,15,14.0,239,11,False
+eeg_20261006_161145/trial15,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial15,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial15,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial15,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial15,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial15,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial15,Leaf,C2 / Moving,7,6.0,174,76,False
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_161145/trial16,Leaf,C2 / Moving,15,14.0,249,1,False
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_161145/trial17,Leaf,C2 / Moving,15,14.0,248,2,False
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,14,13.0,250,0,True
+eeg_20261006_161145/trial18,Leaf,C1 / Pointing,15,14.0,247,3,False
+eeg_20261006_161145/trial19,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial19,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial19,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial19,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial19,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial19,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_161145/trial19,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_161145/trial19,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_161145/trial19,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_161145/trial19,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_161145/trial19,Leaf,C1 / Pointing,11,10.0,91,159,False
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_161145/trial20,Leaf,C1 / Pointing,14,13.0,124,126,False
+eeg_20261006_161145/trial21,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial21,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial21,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial21,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial21,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial21,Leaf,C1 / Pointing,6,5.0,3,247,False
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,10,9.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,11,10.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,12,11.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,13,12.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,14,13.0,250,0,True
+eeg_20261006_161145/trial22,Leaf,C1 / Pointing,15,14.0,249,1,False
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,1,0.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,2,1.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,3,2.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,4,3.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,5,4.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,6,5.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,7,6.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,8,7.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,9,8.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,10,9.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,11,10.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,12,11.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,13,12.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,14,13.0,250,0,True
+eeg_20261006_161145/trial23,Leaf,C2 / Moving,15,14.0,248,2,False
+eeg_20261006_161145/trial24,Leaf,C1 / Pointing,1,0.0,250,0,True
+eeg_20261006_161145/trial24,Leaf,C1 / Pointing,2,1.0,250,0,True
+eeg_20261006_161145/trial24,Leaf,C1 / Pointing,3,2.0,250,0,True
+eeg_20261006_161145/trial24,Leaf,C1 / Pointing,4,3.0,250,0,True
+eeg_20261006_161145/trial24,Leaf,C1 / Pointing,5,4.0,250,0,True
+eeg_20261006_161145/trial24,Leaf,C1 / Pointing,6,5.0,250,0,True
+eeg_20261006_161145/trial24,Leaf,C1 / Pointing,7,6.0,250,0,True
+eeg_20261006_161145/trial24,Leaf,C1 / Pointing,8,7.0,250,0,True
+eeg_20261006_161145/trial24,Leaf,C1 / Pointing,9,8.0,250,0,True
+eeg_20261006_161145/trial24,Leaf,C1 / Pointing,10,9.0,51,199,False

@@ -1,0 +1,2 @@
+session,label,start_time,source,channels,sample_rate_hz,samples,observed_seconds,wall_duration_seconds,first_seq,last_seq,signal_gap_events,nonfinite_values,nonzero_markers,raw_samples,filtered_samples,feature_rows,logged_cca_updates,duplicate_cca_rows,median_cca_hop_seconds
+eeg_20261102_183146,250sps 5Hz NF with cap,2026-11-02 18:31:46,board-filtered,8,250.0,254918,1019.672,1021.174,835555,1090472,0,0,0,0,254918,10196,5098,0,0.2

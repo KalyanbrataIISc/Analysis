@@ -1,0 +1,29 @@
+{
+  "session": "eeg_20261102_185800_to_190647",
+  "label": "250sps 10Hz NF with cap; pooled 18:58\u201319:06",
+  "selected_channels": [
+    "C9",
+    "C10",
+    "C11",
+    "C12",
+    "C13",
+    "C14",
+    "C15",
+    "C16"
+  ],
+  "recorded_channels": [
+    "C9",
+    "C10",
+    "C11",
+    "C12",
+    "C13",
+    "C14",
+    "C15",
+    "C16"
+  ],
+  "sample_rate_hz": 250.0,
+  "epoch_seconds": 5.0,
+  "source": "board-filtered; pooled files",
+  "raw_preprocessing": "recorded board-filtered microvolt signals; no offline filter",
+  "polarity_anchor": "C16"
+}

@@ -1,0 +1,319 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Leaf dynamics - November 4</title><style>body{font-family:system-ui;max-width:1500px;margin:30px auto;padding:0 24px}img{max-width:100%}td,th{padding:7px;border:1px solid #ddd}pre{white-space:pre-wrap}</style></head><body>
+<h1>Leaf Game: timing across blocks and neurofeedback dynamics</h1><p>Blocks 1-4 on the x-axis. Timing plots appear first; scientific findings and tables follow the figures.</p>
+<h2>Timing across blocks: C1 pointing and C2 motion</h2><img loading="lazy" src="timing_across_blocks_c1_c2.png"><p>Every panel uses block on the x-axis. Dots: individual trials; lines: medians; bars: IQR. Open triangles: right-censored intervals, excluded from observed-event medians. Reaction times include all valid responses, independent of accuracy. n labels give observed values per cue/block.</p><a href="timing_across_blocks_c1_c2.svg">SVG</a>
+<h2>Timing across blocks separated by attended frequency</h2><img loading="lazy" src="timing_across_blocks_frequency.png"><p>C1 top row; C2 bottom row. Six trials per cue x frequency x block. Lines: observed-event median; bars: IQR; dots: individual trials; open triangles: censored. All valid reaction times are included.</p><a href="timing_across_blocks_frequency.svg">SVG</a>
+<h2>Timing across blocks including administrative timeouts</h2><img loading="lazy" src="restricted_timing_across_blocks.png"><p>All 12 trials per cue/block contribute. Right-censored waiting times contribute the known 15-second tail to restricted means. Shading: 95% trial-bootstrap intervals, resampling within attended-frequency cells; conditional on this participant and block.</p><a href="restricted_timing_across_blocks.svg">SVG</a>
+<h2>Task behavior: attaining and sustaining control</h2><img loading="lazy" src="behavior_reveal_timing.png"><p>All blocks pooled except the scalar block comparison. Timeouts are censored. First-green-to-reveal points include revealed trials only.</p><a href="behavior_reveal_timing.svg">SVG</a>
+<h2>All four blocks pooled: C1 pointing</h2><img loading="lazy" src="pooled_spectra_c1.png"><p>24 equally weighted trials per row. Full 1-second windows updated every 100 ms; native 1 Hz resolution. Average linear power before dB. Same-data fitting alone cannot establish an attention effect.</p><a href="pooled_spectra_c1.svg">SVG</a>
+<h2>All four blocks pooled: C2 motion</h2><img loading="lazy" src="pooled_spectra_c2.png"><p>24 equally weighted trials per row. Full 1-second windows updated every 100 ms; native 1 Hz resolution. Average linear power before dB. Same-data fitting alone cannot establish an attention effect.</p><a href="pooled_spectra_c2.svg">SVG</a>
+<h2>Cue-locked power, online scores and control</h2><img loading="lazy" src="cue_locked_dynamics.png"><p>All blocks pooled. 100 ms updates, trailing 1-second estimators. Shading: between-trial SEM. Display bins with &gt;=5 trials; counts below. Reveal-aligned growth is partly selected by the stopping rule.</p><a href="cue_locked_dynamics.svg">SVG</a>
+<h2>Reveal-locked power, online scores and control</h2><img loading="lazy" src="reveal_locked_dynamics.png"><p>All blocks pooled. 100 ms updates, trailing 1-second estimators. Shading: between-trial SEM. Display bins with &gt;=5 trials; counts below. Reveal-aligned growth is partly selected by the stopping rule.</p><a href="reveal_locked_dynamics.svg">SVG</a>
+<h2>Reveal dynamics separated by attended frequency</h2><img loading="lazy" src="reveal_locked_frequency_split.png"><p>17/19 Hz balanced within cue and block. Bins require &gt;=5 trials. Successful-reveal selection remains.</p><a href="reveal_locked_frequency_split.svg">SVG</a>
+<h2>Attended and distractor components around reveal</h2><img loading="lazy" src="reveal_locked_attended_distractor.png"><p>Fixed pre-reveal cohort: 56 trials with reveal latency &gt;=4 s. Shading: between-trial SEM. Post-trigger support decreases with trial stopping. Power uses same-window fits; the separate preceding-window analysis checks fitting sensitivity.</p><a href="reveal_locked_attended_distractor.svg">SVG</a>
+<h2>Scalar outcomes across blocks</h2><img loading="lazy" src="block_scalar_robustness.png"><p>Six trials per point. Spectra remain pooled. Early endpoints 1-2 s after cue precede every reveal. Block differences are descriptive; no learning claim.</p><a href="block_scalar_robustness.svg">SVG</a>
+<h2>Within-trial interval comparisons</h2><img loading="lazy" src="interval_power_comparison.png"><p>Fixed cohort of 38 revealed trials with latency &gt;=4 s and complete +1 to +2 s post-reveal coverage. Thin lines are individual trials; thick lines are unweighted descriptive cue means. Formal contrasts in the tables balance cells. Pre/post reflect outcome selection and visual/response changes.</p><a href="interval_power_comparison.svg">SVG</a>
+<h2>Early dominance versus time to reveal</h2><img loading="lazy" src="early_power_vs_reveal_time.png"><p>96 trial means; cell centering controls additive session/cue/frequency means. No causal interpretation or confirmatory p-values.</p><a href="early_power_vs_reveal_time.svg">SVG</a>
+<h2>Reveal dynamics with fixed trial membership</h2><img loading="lazy" src="fixed_cohort_reveal.png"><p>Same 56 trials throughout: revealed at &gt;=4 s. Outcome-dependent selection remains.</p><a href="fixed_cohort_reveal.svg">SVG</a>
+<h2>Individual reveal-locked trials</h2><img loading="lazy" src="individual_reveal_heatmaps.png"><p>Revealed C1 then C2 trials, sorted by latency. White=unavailable. Symmetric 95th absolute percentile limits for display only; all observations retained in calculations.</p><a href="individual_reveal_heatmaps.svg">SVG</a>
+<h2>Instruction effect versus 17/19 Hz asymmetry</h2><img loading="lazy" src="attention_frequency_decomposition.png"><p>48 trials per assignment. Both curves rising in physical 17-minus-19 coordinates indicates a common frequency asymmetry; opposite shifts would support instruction following. Thin lines: trial observations. Formal balanced contrasts are exported.</p><a href="attention_frequency_decomposition.svg">SVG</a>
+<h2>Do fitted target peaks persist out of the fitting window?</h2><img loading="lazy" src="fit_vs_next_window_peak.png"><p>Full cue-to-reveal/timeout intervals; PSD averaged within each trial first. Local prominence uses target / mean(16,18,20 Hz) within its own projection. Target peaks that collapse out of fitting window provide weak evidence of a stable spatial signal.</p><a href="fit_vs_next_window_peak.svg">SVG</a>
+<h2>Scientific findings</h2><pre># Leaf Game findings - 4 November 2026
+
+Four blocks pooled; 96 trials; 72 reveals and 24 administrative timeouts.
+- C1: RMST15=9.10 s; first-green-to-reveal median=0.99 s among reveals; 7 trials reached green but timed out.
+- C2: RMST15=8.83 s; first-green-to-reveal median=0.99 s among reveals; 5 trials reached green but timed out.
+
+Key interpretation:
+- Early task-minus-ITI change favors 17 Hz independent of attendance: physical frequency asymmetry 0.0238, exploratory 95% interval [0.0066, 0.0418]. Instruction-following contrast -0.0042 [-0.0389, 0.0323] remains uncertain.
+- Optimized target peaks largely disappear on the next non-overlapping second. Treat these fitted peaks as descriptive, not independent validation of a stable response.
+- Reveal-aligned score increases contain both attended enhancement and distractor suppression. The stopping rule selects these trials, so this does not independently establish learning.
+- Of 24 timeouts, 12 never reached green and 12 reached green without a reveal before the deadline.
+- Recorded border modulation matches logged 17/19 Hz on scheduled phase time (median regression R squared approximately 1); frame-end software timing gives median R squared approximately 0.99. No physical photodiode measurement is available.
+
+Exploratory balanced contrasts:
+- wait15_s, C2 minus C1: -0.267 [95% trial-bootstrap interval -1.903, 1.343], n=96
+- wait15_s, attend19 minus attend17: 1.320 [95% trial-bootstrap interval -0.251, 2.955], n=96
+- early_score_diff, C2 minus C1: 0.012 [95% trial-bootstrap interval -0.012, 0.036], n=96
+- early_power_db, C2 minus C1: 0.029 [95% trial-bootstrap interval -1.126, 1.191], n=96
+- early_power_db_previous, C2 minus C1: 0.409 [95% trial-bootstrap interval -1.401, 2.115], n=96
+- early_score_diff, attend19 minus attend17: -0.037 [95% trial-bootstrap interval -0.061, -0.014], n=96
+- pre_minus_earlier_power_db, balanced paired change: 2.261 [95% trial-bootstrap interval 1.279, 3.314], n=56
+- pre_minus_earlier_power_db_previous, balanced paired change: 1.505 [95% trial-bootstrap interval 0.018, 2.961], n=56
+- pre_minus_earlier_score_diff, balanced paired change: 0.056 [95% trial-bootstrap interval 0.041, 0.071], n=56
+- pre_minus_earlier_score_att, balanced paired change: 0.034 [95% trial-bootstrap interval 0.020, 0.050], n=56
+- pre_minus_earlier_score_dist, balanced paired change: -0.022 [95% trial-bootstrap interval -0.035, -0.008], n=56
+
+Trial-level early measure vs restricted waiting time (within-cell centered):
+- early_power_db: descriptive Spearman r=-0.101.
+- early_power_db_previous: descriptive Spearman r=-0.044.
+- early_score_diff: descriptive Spearman r=-0.241.
+
+Instruction versus physical frequency decomposition:
+- early_score_diff, instruction contrast in physical 17-minus-19 coordinates: -0.0123 [-0.0365, 0.0150].
+- early_score_diff, physical 17-minus-19 frequency asymmetry: 0.0183 [0.0063, 0.0307].
+- early_minus_baseline_score_diff, instruction contrast in physical 17-minus-19 coordinates: -0.0042 [-0.0389, 0.0323].
+- early_minus_baseline_score_diff, physical 17-minus-19 frequency asymmetry: 0.0238 [0.0066, 0.0418].
+- early_power_db, instruction contrast in physical 17-minus-19 coordinates: 0.3123 [-0.8342, 1.4419].
+- early_power_db, physical 17-minus-19 frequency asymmetry: 0.5866 [0.0407, 1.1653].
+- early_minus_baseline_power_db, instruction contrast in physical 17-minus-19 coordinates: 0.3650 [-1.5799, 2.2162].
+- early_minus_baseline_power_db, physical 17-minus-19 frequency asymmetry: 1.3106 [0.3716, 2.2480].
+
+Projection peak prominence, mean over trial spectra:
+- preceding_window, U17: 0.29 dB relative to local non-target bins.
+- preceding_window, U19: 0.23 dB relative to local non-target bins.
+- same_window, U17: 6.23 dB relative to local non-target bins.
+- same_window, U19: 5.84 dB relative to local non-target bins.
+
+Pre-reveal growth is partly selected by the integration-and-hold rule, not independent evidence of learning. Intervals crossing zero leave effects uncertain. Preceding-window evaluation, fixed-cohort results and block plots are sensitivity checks, not confirmatory replications.</pre>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>cue</th>
+      <th>attended_hz</th>
+      <th>n</th>
+      <th>reveals</th>
+      <th>RMST15_s</th>
+      <th>first_green_RMST15_s</th>
+      <th>median_observed_reveal_s</th>
+      <th>median_first_green_to_reveal_s</th>
+      <th>green_reached_but_timeout</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>c1</td>
+      <td>17.0</td>
+      <td>24</td>
+      <td>18</td>
+      <td>8.687520</td>
+      <td>6.117450</td>
+      <td>5.641870</td>
+      <td>0.992687</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>c1</td>
+      <td>19.0</td>
+      <td>24</td>
+      <td>17</td>
+      <td>9.509820</td>
+      <td>7.837620</td>
+      <td>6.652808</td>
+      <td>0.991708</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>c2</td>
+      <td>17.0</td>
+      <td>24</td>
+      <td>20</td>
+      <td>7.923133</td>
+      <td>5.589024</td>
+      <td>5.900879</td>
+      <td>0.992168</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>c2</td>
+      <td>19.0</td>
+      <td>24</td>
+      <td>17</td>
+      <td>9.740686</td>
+      <td>7.980023</td>
+      <td>7.190407</td>
+      <td>0.992414</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>metric</th>
+      <th>contrast</th>
+      <th>estimate</th>
+      <th>ci_low</th>
+      <th>ci_high</th>
+      <th>n_trials</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>wait15_s</td>
+      <td>C2 minus C1</td>
+      <td>-0.266760</td>
+      <td>-1.903255</td>
+      <td>1.342525</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>wait15_s</td>
+      <td>attend19 minus attend17</td>
+      <td>1.319926</td>
+      <td>-0.250877</td>
+      <td>2.955129</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_power_db</td>
+      <td>C2 minus C1</td>
+      <td>0.029164</td>
+      <td>-1.125813</td>
+      <td>1.190984</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_power_db</td>
+      <td>attend19 minus attend17</td>
+      <td>-1.173191</td>
+      <td>-2.377498</td>
+      <td>-0.066721</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_power_db_previous</td>
+      <td>C2 minus C1</td>
+      <td>0.409008</td>
+      <td>-1.400751</td>
+      <td>2.114521</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_power_db_previous</td>
+      <td>attend19 minus attend17</td>
+      <td>-1.397282</td>
+      <td>-3.153233</td>
+      <td>0.347215</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_score_diff</td>
+      <td>C2 minus C1</td>
+      <td>0.011662</td>
+      <td>-0.012477</td>
+      <td>0.035751</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_score_diff</td>
+      <td>attend19 minus attend17</td>
+      <td>-0.036699</td>
+      <td>-0.061153</td>
+      <td>-0.013609</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_control</td>
+      <td>C2 minus C1</td>
+      <td>0.014386</td>
+      <td>-0.029764</td>
+      <td>0.055416</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_control</td>
+      <td>attend19 minus attend17</td>
+      <td>-0.076615</td>
+      <td>-0.120952</td>
+      <td>-0.031167</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_minus_baseline_power_db</td>
+      <td>C2 minus C1</td>
+      <td>0.608763</td>
+      <td>-1.234776</td>
+      <td>2.394397</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_minus_baseline_power_db</td>
+      <td>attend19 minus attend17</td>
+      <td>-2.621218</td>
+      <td>-4.490478</td>
+      <td>-0.783974</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_minus_baseline_score_diff</td>
+      <td>C2 minus C1</td>
+      <td>0.005206</td>
+      <td>-0.030457</td>
+      <td>0.040954</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>early_minus_baseline_score_diff</td>
+      <td>attend19 minus attend17</td>
+      <td>-0.047513</td>
+      <td>-0.082759</td>
+      <td>-0.010345</td>
+      <td>96</td>
+    </tr>
+    <tr>
+      <td>pre_minus_earlier_power_db</td>
+      <td>balanced paired change</td>
+      <td>2.260926</td>
+      <td>1.279213</td>
+      <td>3.314323</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>pre_minus_earlier_power_db_previous</td>
+      <td>balanced paired change</td>
+      <td>1.504651</td>
+      <td>0.017671</td>
+      <td>2.961166</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>pre_minus_earlier_score_diff</td>
+      <td>balanced paired change</td>
+      <td>0.056406</td>
+      <td>0.041054</td>
+      <td>0.070919</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>pre_minus_earlier_control</td>
+      <td>balanced paired change</td>
+      <td>0.165754</td>
+      <td>0.133083</td>
+      <td>0.199838</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>pre_minus_earlier_score_att</td>
+      <td>balanced paired change</td>
+      <td>0.034497</td>
+      <td>0.019873</td>
+      <td>0.049737</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>pre_minus_earlier_score_dist</td>
+      <td>balanced paired change</td>
+      <td>-0.021908</td>
+      <td>-0.035281</td>
+      <td>-0.008348</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>post_minus_pre_power_db</td>
+      <td>balanced paired change</td>
+      <td>-2.724180</td>
+      <td>-3.855040</td>
+      <td>-1.642640</td>
+      <td>49</td>
+    </tr>
+    <tr>
+      <td>post_minus_pre_score_diff</td>
+      <td>balanced paired change</td>
+      <td>-0.051715</td>
+      <td>-0.070147</td>
+      <td>-0.033184</td>
+      <td>49</td>
+    </tr>
+  </tbody>
+</table>
+</body></html>

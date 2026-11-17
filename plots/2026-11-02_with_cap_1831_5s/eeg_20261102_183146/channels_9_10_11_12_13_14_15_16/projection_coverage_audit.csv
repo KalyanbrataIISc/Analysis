@@ -1,0 +1,2 @@
+session,samples,fixed_projected_samples,rolling_projected_samples,unassigned_samples,rolling_fit_count,logged_fits_used,offline_fits_used,schedule
+eeg_20261102_183146,254918,254918,254918,0,5095,5093,2,logged CCA endpoints + offline boundary endpoints

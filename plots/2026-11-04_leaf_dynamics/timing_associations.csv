@@ -1,0 +1,4 @@
+metric,adjustment,spearman_with_restricted_wait,n
+early_power_db,center within block x cue x attended frequency,-0.10091431997058559,96
+early_power_db_previous,center within block x cue x attended frequency,-0.04432551962681656,96
+early_score_diff,center within block x cue x attended frequency,-0.24103315462257893,96

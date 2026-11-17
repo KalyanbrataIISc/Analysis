@@ -1,0 +1,520 @@
+[
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/CogLab/App/CogLabAppController.cs",
+    "lines": 600,
+    "sha256": "c8588c5552fbca1a497a446ba017461d01a79a2c18432a126694bbbe1dfdcd4e",
+    "overview": "Shared game catalog, launcher and saved settings. Leaf/Paddle implementations are outside this walkthrough."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/CogLab/Framework/GameModule.cs",
+    "lines": 112,
+    "sha256": "3132646fd1431f959cf8ffdaf95681b82a91652a5d59b84e577cd63b326d3c08",
+    "overview": "Creates a runtime controller copy from the disabled settings template and manages session ownership/camera/return callback."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/CogLab/Shared/Bci/UsbBiosemiLink.cs",
+    "lines": 184,
+    "sha256": "37b1db2774b11ba6553aef0ef09910c18158579f31b3fc20fcf22323c39581a0",
+    "overview": "External Biosemi TCP NF/trigger bridge. Finger-decoded IDs use the separate UDP interface."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/CogLab/Shared/Calibration/BciCalibration.cs",
+    "lines": 19,
+    "sha256": "eef7bc63aaac138d0436b2b3b80b1b50c362cea9a51458bab82f201e5b37a1a4",
+    "overview": "Helper that attaches the shared CalibrationScreen to the session owner and assigns Proceed/Back actions."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/CogLab/Shared/Calibration/CalibrationScreen.cs",
+    "lines": 1165,
+    "sha256": "77584d34dd84842ec306fa0f63cfdcadf95db1c45211c1cac462549a96fe126e",
+    "overview": "Shared BCI Telemetry V2 signal traces, channel selection, FFT and board connection controls. Raw-display/FFT calculation is not EEGNet inference."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/CogLab/Shared/Timing/MonotonicClock.cs",
+    "lines": 10,
+    "sha256": "a30b86887c63379c6922d20b0fee09882d6733263a47121953c36a809689c5b7",
+    "overview": "Stopwatch-based elapsed seconds for software event timing, independent of wall-clock adjustments."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Editor/FingerBoundaryVerification.cs",
+    "lines": 87,
+    "sha256": "37e74d1a7a6243c814fa74fc7d12b4c60f69da747641820b6e9829a917a81d4f",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Editor/FingerExperimentInspector.cs",
+    "lines": 31,
+    "sha256": "12b49ff5f5b8131d01e0c4d372ce06ed06bdc6e2e38987a30ec700d3fc7f42c5",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Editor/FingerProjectSetup.cs",
+    "lines": 83,
+    "sha256": "ac022cd8129d6a7e3d0c235989eeb8c5076c82543f0d5dc155eb6dad25c2fe96",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Editor/FingerSmoothingVerification.cs",
+    "lines": 69,
+    "sha256": "0758ab5dbdd2db33c3cd42c4adb7c41575d1632b85f0e81161eee87f446803f2",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Editor/FingerVerification.cs",
+    "lines": 60,
+    "sha256": "4daaa842a5e4e556867ee8e5101ff26ef4a2231d5d7068d0079a604c7afad117",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Scripts/FingerAcquisition.cs",
+    "lines": 40,
+    "sha256": "6140eca6af1fa6b2e246ca6cdfa43aecb1ceafc1afc2ccad1b21936d0093b54d",
+    "overview": "BciCore/UsbBiosemi acquisition and trigger adapter. Finger-only echo-label policy is restored when disposed."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Scripts/FingerCanvasView.cs",
+    "lines": 164,
+    "sha256": "82f95d43bb6606141c2a3e4458e957fef5623e713ed09ac7551c7da886b86752",
+    "overview": "Builds/scales UI, masks and single dot, settings bindings, pause screen and telemetry button. Does not classify EEG."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Scripts/FingerCsvLogger.cs",
+    "lines": 33,
+    "sha256": "0266f946ae7035e1e17e15acc103189b97ab5cd0c6cd814b7998a7dfe57cfbcf",
+    "overview": "Task CSV writer: event, run/trial, cue/prediction, correctness/confidence, timing, trigger delivery and simulation flag."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Scripts/FingerExperimentController.cs",
+    "lines": 403,
+    "sha256": "b8caff0b4341264ab42b19767d401f055399c73901884d5d7bc88ca56e98286e",
+    "overview": "Orchestrates settings, session states, cue deadlines, prediction presentation/smoothing, trigger spacing, pauses, abort and export. Contains no EEGNet forward pass."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Scripts/FingerFeedbackSmoother.cs",
+    "lines": 31,
+    "sha256": "3765f9773bb28010c35c1c78c4eea049158e9d3a0f9e2afe4f271dca48122f44",
+    "overview": "h = alpha*h + evidence; normalize only the displayed confidence. Binary softmax reconstruction or multiclass one-hot votes; reset per trial."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Scripts/FingerGameModule.cs",
+    "lines": 9,
+    "sha256": "e7e8b4c44e2db4dd69ac5ef2c43cc90be459b5809fb32ae6b4da41cab0e04358",
+    "overview": "Registers Finger Decoding with the shared launcher; delegates validation to its controller template."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Scripts/FingerPredictions.cs",
+    "lines": 109,
+    "sha256": "c819bb7cbcd9c7182709db92378dd18d45353b2801d4727987621848b2596de7",
+    "overview": "Receives explicit decoded IDs via UDP or BciCore ML events. Maps EMG32 class 0/1 into selected ME/MI finger IDs. No raw EEG preprocessing."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Scripts/FingerProtocol.cs",
+    "lines": 39,
+    "sha256": "d7a484aacbd6f116a573fb9c4b39908120c2c21bb2b1994f40ed6635866ff4ae",
+    "overview": "Enums, ME/MI IDs, balanced Fisher\u2013Yates run sequence and Flash/SinglePulse visibility."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Tools/check_session.py",
+    "lines": 36,
+    "sha256": "048258a24de33b8ad0b66a2896a435bdb66ddbcf10997a3b4cad9800f875e864",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Tools/emg32_to_udp.py",
+    "lines": 69,
+    "sha256": "18a53f21157206239bf104a6baf5684a03ebd19c8fc9d0e31dd7545dec846d37",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Tools/generate_hand.py",
+    "lines": 61,
+    "sha256": "fc984644b957a5c1a0ace0228db00c644582347e4e570546207fc873b51ec126",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Assets/Games/FingerDecoding/Tools/send_prediction.py",
+    "lines": 37,
+    "sha256": "88eb6c85db1d360446b206f63952d4dbb6ca1bc40852123945e0df37bd152f00",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Packages/org.iisc.bcicore.server/Runtime/Api/BciEvents.cs",
+    "lines": 106,
+    "sha256": "e00d6338ab6416d36b0f7d5e9c8ff9dd5bde4e181580bfa8952964320da91ec1",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Packages/org.iisc.bcicore.server/Runtime/Api/BciServer.cs",
+    "lines": 374,
+    "sha256": "585a93c145047ff4cb004ccc277886ca4730d4154f6a23debc4df7f058cdacd9",
+    "overview": "Shared acquisition API, callbacks, calibration routing and recording. Finger opts into distinct health-echo labels; defaults remain unchanged for other games."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Packages/org.iisc.bcicore.server/Runtime/Logging/BinToCsvConverter.cs",
+    "lines": 301,
+    "sha256": "91c0a4ca285d4fbdcb819a8ad83486454d9396fb094e0389187c88409a9ac413",
+    "overview": "Converts nonempty binary streams into CSV; empty signals.bin has no recorded PROC samples and is skipped."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Packages/org.iisc.bcicore.server/Runtime/Logging/CsvSessionLogger.cs",
+    "lines": 425,
+    "sha256": "bb7c43553c582c7bbc82b6e9d9e0a391c9975967c5ad149d5ae866954b869382",
+    "overview": "Queues raw/proc/features/health binary records for low-overhead recording; later conversion produces CSV."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Packages/org.iisc.bcicore.server/Runtime/Logging/DirectCsvSessionLogger.cs",
+    "lines": 348,
+    "sha256": "147112c9cc79604a976d45a8cc3ff6d2ceb8aa05cfc04485decf2660c1e49585",
+    "overview": "Queues formatted CSV records and writes them while acquisition runs."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Packages/org.iisc.bcicore.server/Runtime/Networking/EspTcpListener.cs",
+    "lines": 619,
+    "sha256": "fed67125b44d3df3020fe2a66fccd18e79449703c8ab57082560702c23a6a181",
+    "overview": "Network receive/process worker: frame validation/parsing, continuous raw/proc logging and dispatch of UI callbacks onto the main thread."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Packages/org.iisc.bcicore.server/Runtime/Networking/FrameProtocol.cs",
+    "lines": 285,
+    "sha256": "40ee38dc798e9bdeb467a3cd8903d07747556bd63dbcf8746e0c094b47f93890",
+    "overview": "Decodes little-endian protocol payloads, including the current 9-byte ML payload."
+  },
+  {
+    "group": "CogLab",
+    "file": "/Users/swikriti/Documents/GitHub/CogLab-Games/Packages/org.iisc.bcicore.server/Runtime/Networking/MainThreadDispatcher.cs",
+    "lines": 58,
+    "sha256": "ebba462629d55d6fec19c1e2490e0ebce1f00bf91b16e4e16ed83b9f3b290d07",
+    "overview": "Queues background-worker callbacks and runs them on the Unity main thread."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/ADS1299.h",
+    "lines": 85,
+    "sha256": "46cd91e7c0633a5174f7d73658c0d16b90772dc480a8240fddb4d62d2f2fc16a",
+    "overview": "Declarations and DMA/hardware state for the ADS1299 driver."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/ADS1299_Regs.h",
+    "lines": 79,
+    "sha256": "dc9e9aa41957d4efa217fc8f10ac69d6551fba5b8a161249ff3193b6f5a65aba",
+    "overview": "Register addresses, command constants and bit settings from the ADS1299 device interface."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/Analysis.h",
+    "lines": 65,
+    "sha256": "9dbafeede059b0624518f776e024274468c88e4450ed26456e10fd1bb8630176",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/CcaNeurofeedback.h",
+    "lines": 85,
+    "sha256": "727b759c9c039ddae0f587243c30d679b0189a0a4414f9c1ffa617ef9319aee0",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/CcaRefTables.h",
+    "lines": 530,
+    "sha256": "841552d90774b3915a1ba43b1868611b4cdf0999b696737e980ea09f2a0cd331",
+    "overview": "Generated sinusoid/cosine reference tables for the CCA stimuli."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/Config.h",
+    "lines": 708,
+    "sha256": "945e66238f285ac2b22ad8181fc38df7f7897bbe007ab7d3105df31ce64d62cc",
+    "overview": "Compile-time experiment/hardware configuration. Current source ROLE_CUSTOM / Stage 6 does not enable EEGNet. Configuration describes the source snapshot, not necessarily the board firmware currently flashed."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/EegNet.h",
+    "lines": 66,
+    "sha256": "3de24b46aed5035a5d0ee89842a47ea6ba5742e9a1e739ed0c3541a7d7f72f1f",
+    "overview": "EEGNet API and disabled no-op stubs. With EEGNET_ENABLED=0 the inference module is excluded, even though main.cpp calls begin/pushSample."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/Filters.h",
+    "lines": 55,
+    "sha256": "d8a7e3afcce634cd33f11aaf32f13eaa3ecc0cddbd11a4cbee73f69e0e81fadf",
+    "overview": "Filter state, buffers and public conditioner interface."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/NetLink.h",
+    "lines": 35,
+    "sha256": "c52eca494181faf1214a122de7aad73d00e76b9982c2349bc61a77b49cc5fee2",
+    "overview": "Network module public interface."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/Neurofeedback.h",
+    "lines": 32,
+    "sha256": "c982728220a0f6773695723e88904279a3f60f9a80b2f567e0d4659e58100121",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/Protocol.h",
+    "lines": 67,
+    "sha256": "700ff4a6899f7d4a0997ea77899d22986ae3a27062170b3061eca3d78efcdf92",
+    "overview": "Wire message identifiers, payload sizes and packet-builder declarations."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/RollingMedian.h",
+    "lines": 72,
+    "sha256": "181eae4601eccd1c64e1df4c1645317b18cbf9b395edb27e3b4bdac2c4f52d4b",
+    "overview": "Reusable rolling median for the spectral/CCA feedback paths; not the Unity probability accumulator."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/SdLogger.h",
+    "lines": 35,
+    "sha256": "57f4501d0acfd10c524deadaea91d29ff6bb7ffe45db347a69e76bf63d372e85",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/Transport.h",
+    "lines": 285,
+    "sha256": "3132f62787c6f327e3ca4449d4538e9c8c76d9b3a2da4bd15efb58e9b347714e",
+    "overview": "Sample/result structs and ring push/pop helpers. Rings decouple acquisition, DSP and transmission without blocking acquisition."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/core0/BuildInfo.h",
+    "lines": 4,
+    "sha256": "f13a1498ddd6397abbd95b5330c5fc97f3bd89725debb610f0eca1040d680436",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/eegnet/eegnet_fast_fp32.h",
+    "lines": 213,
+    "sha256": "0f4de57334c8bdf7e642705505691e423fb2a5ea300cc84aa88440997553de6e",
+    "overview": "Optimized FP32 EEGNet forward pass. Spatial/temporal linear layers are fused; ELU and pooling remain in the correct nonlinear order. Uses BN-folded weights."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/eegnet/eegnet_filter.h",
+    "lines": 81,
+    "sha256": "fbe81c38acd681a0bbb78ab0887186ff1513ac90d16ca8eda093a707b8cdc146",
+    "overview": "EEGNet OWN input conditioning: 8-channel common-average reference followed by four second-order bandpass sections at 250 Hz."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/eegnet/eegnet_pipeline.h",
+    "lines": 129,
+    "sha256": "b3a3c9c015130512b7e66c1b45e340972cc62de6c371c8ba43d54b416cf9bf54",
+    "overview": "Streaming 8-channel circular window, gap detection, warm-up, per-channel z-score and hop scheduling. Free-running, with no trial reset/gating."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/include/eegnet/eegnet_weights.h",
+    "lines": 595,
+    "sha256": "ea1c75acb1095990ac41af2162d21edaa9cdf9c3245c1757e993303a4bdf58bc",
+    "overview": "Generated model architecture constants and learned weights. Replace via a compatible exporter, not by editing individual floating-point values. This snapshot identifies the P04 two-class ME checkpoint."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/platformio.ini",
+    "lines": 32,
+    "sha256": "2e58647159f39b5961a4085a34c0ff4c1d0074a6cbefeaac86cb5b6b35f6b0be",
+    "overview": "PlatformIO board/build environments. Current default targets ESP32-S3, Arduino framework, PSRAM and 4 MB flash."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/src/ADS1299.cpp",
+    "lines": 448,
+    "sha256": "3de9a44188b0434846501073385bffe60ca6265adf2f994bd795c2835a7fc9d5",
+    "overview": "Hardware driver: SPI/register commands, chip verification, acquisition mode and DMA reads. It converts ADC wire bytes into signed channel counts; it does not classify fingers."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/src/Analysis.cpp",
+    "lines": 122,
+    "sha256": "2deffcba3655005ba7dcc9163d357c6bb4f5ace7af0668a9e48de52aad86bc6e",
+    "overview": "Rolling analysis windows, Goertzel spectral power and SSVEP reference/background calculations. Used in higher stages, not by the Stage 7 EEGNet model path."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/src/CcaNeurofeedback.cpp",
+    "lines": 233,
+    "sha256": "9e570d2400382160211bbb62bc55b0dc5136a86126f8fcc89d8d233c7e0ecae8",
+    "overview": "CCA-based SSVEP scores via covariance, matrix inversion/regularization and power iteration, then shaped feedback. Not finger EEGNet."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/src/EegNet.cpp",
+    "lines": 164,
+    "sha256": "32128a98734ba6eb0ea3336c863d10614f6c4067a76bd48fe626bf665e489a05",
+    "overview": "Non-blocking per-sample preprocessing/window creation plus a queued inference task on Core 1. Sends only winning class, confidence, latency and newest-sample sequence."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/src/Filters.cpp",
+    "lines": 79,
+    "sha256": "966fde1f4d7b3ac802b40cfbbba93a99ed4207cfe3661f7be05ff7bebfa6952c",
+    "overview": "Standard board conditioner: clamps, DC blocker, 61-tap FIR, gradient/glitch gate. Distinct from EEGNet OWN preprocessing."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/src/NetLink.cpp",
+    "lines": 474,
+    "sha256": "c6f6cb334c2f05aea34ba2d58d18c9524e8516a03664b0108b88f3e1c5e59f4c",
+    "overview": "Owns Wi-Fi/TCP and the transmit task. Handles marker commands/echoes, batching, reconnects, stream selection, health reports and optional replay injection."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/src/Neurofeedback.cpp",
+    "lines": 76,
+    "sha256": "df4c6bf5aea00eb7c3e51034aaf80a767d799740c8aa18a04ca03eba4c569662",
+    "overview": "Legacy spectral SMI/SSVEP feedback with baseline/scaling/median smoothing. It is a different algorithm from finger EEGNet."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/src/Protocol.cpp",
+    "lines": 160,
+    "sha256": "f926c95c72172faa33adb72e88c7234d19b333fdf4c0e33f542a00979ec09943",
+    "overview": "Serializes framed TCP packets. Header: AA55, frame type, 32-bit sequence, 16-bit payload length; little endian. No CRC is added by these builders."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/src/SdLogger.cpp",
+    "lines": 76,
+    "sha256": "6094d8971fe5f19daca49850015c18901058ba1beb97f09e6fa2363ca5add219",
+    "overview": "Optional queued binary raw recording to SD. Conditional on LOG_DEST; unrelated to Unity files in Android persistentDataPath."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/src/Transport.cpp",
+    "lines": 87,
+    "sha256": "f4aebd54946b5dcc358b7aa49d37c68cffebf36c12e5503eb8967c07895acf2e",
+    "overview": "Owns shared ring buffers, counters, processing flag and marker latch. Allocates the processed ring in PSRAM before producer/consumer tasks start."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/src/main.cpp",
+    "lines": 630,
+    "sha256": "0c0958775d84ca68eae3f9e601fc07c2c09d09861bb6d3d0266c9df1f97bebf1",
+    "overview": "Board entry point. Compile-time stages select which code exists in the firmware. Setup creates tasks; live acquisition, processing, inference and networking then run concurrently."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/utils/bci_gui_v2.py",
+    "lines": 1612,
+    "sha256": "afb687b9a78f02a7cb281bc6a47f97789e272b55d53ee88cdc30e65613dfc56c",
+    "overview": "Python telemetry GUI; the shared Unity CalibrationScreen provides the corresponding in-app UI."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/utils/bin_to_csv.py",
+    "lines": 429,
+    "sha256": "9c2a34a4b704e8f2ea4c893ccb9e3a93e75c73045154b9b9a0ed70b7a23da244",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/utils/eeg_tcp_server.py",
+    "lines": 1235,
+    "sha256": "706a59bd050cb783b4284339f88555e2b9cf82a08019d614da4526d0a8b6c30c",
+    "overview": "Optional PC receiver/parser/logger for board frames. An alternative to Unity BciCore as TCP receiver, not an extra receiver on the same port."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/utils/eegnet_csv_streamer.py",
+    "lines": 175,
+    "sha256": "023ac01aaf9c572a5d9c92b85632ce69509bf8b22393416463267e9d714a89ae",
+    "overview": "PC validation/replay tool. Maps CSV columns to board channels, sends synthetic RAW frames to port 5007 and prepares truth labels. Not a training or weight exporter."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/utils/eegnet_score.py",
+    "lines": 62,
+    "sha256": "7cd4f5808306d80045479f7bdfe3eb4d2fbbea21c3cc3d8d21f9ddfdb42eac65",
+    "overview": "Compares emitted model predictions with replay ground truth. Does not train or modify weights."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/utils/make_cca_tables.py",
+    "lines": 112,
+    "sha256": "7b45512f3126c4256ebbbe895fc511a37c425051b4a6e5d8c0364b17d2f88306",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/utils/make_testdata.py",
+    "lines": 229,
+    "sha256": "5a35241d548e1a135a1ef392774dbde4df338c8a25ff40a827ec7b6e8db5d23e",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/utils/nf_tcp_server.py",
+    "lines": 370,
+    "sha256": "fc6f935b40e41ff7e620ea25db2eccaeca8400a6e303097d2a50c1c4fa079a85",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/utils/relay_csv_to_board.py",
+    "lines": 287,
+    "sha256": "2ef6d25027b7caafc279fea5e610458e97c043475184f9671d3e88c3afb6f60d",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "EMG32",
+    "file": "/Users/swikriti/Documents/GitHub/EMG32/utils/validate_cca.py",
+    "lines": 419,
+    "sha256": "e76d8f99d3a0078bba1f2f29ade2b406c6310ce530635b10e06163c2be34d2ed",
+    "overview": "Supporting declarations, utilities or verification for the neighbouring module. These do not all execute during a live finger trial; check compile-time role/stage and the execution guide."
+  },
+  {
+    "group": "Biosemi MATLAB",
+    "file": "/Users/swikriti/Downloads/eegnet_inference.m",
+    "lines": 172,
+    "sha256": "dfec56e7442225b961c877cb93c7fa25a4f9fca8bb3677d3f52fbf202f8c9bea",
+    "overview": "MATLAB layer-by-layer forward pass for exported MAT weights. No timer or network transmission."
+  },
+  {
+    "group": "Biosemi MATLAB",
+    "file": "/Users/swikriti/Downloads/run_online_prediction.m",
+    "lines": 423,
+    "sha256": "e40df9134fe8afab8f0a8fa9de0f0cb0518f13cf58be88e61c30db894650360a",
+    "overview": "Biosemi/FieldTrip online driver: 128 Hz, 1 s windows, 13-sample hops, inference, cue-aligned gating and alpha=.90 probability smoothing."
+  }
+]

@@ -1,0 +1,9 @@
+metric,effect,estimate,ci_low,ci_high,n_trials
+early_score_diff,instruction contrast in physical 17-minus-19 coordinates,-0.012277940719696973,-0.03653035245265152,0.01495588460227272,96
+early_score_diff,physical 17-minus-19 frequency asymmetry,0.018349267329545456,0.006259421768465918,0.030697565426136365,96
+early_minus_baseline_score_diff,instruction contrast in physical 17-minus-19 coordinates,-0.004203935164141418,-0.03885101751420455,0.03227011227062289,96
+early_minus_baseline_score_diff,physical 17-minus-19 frequency asymmetry,0.02375669834806398,0.006555107416877116,0.04184894269149832,96
+early_power_db,instruction contrast in physical 17-minus-19 coordinates,0.3123408726359921,-0.8342215186161979,1.4419499803910047,96
+early_power_db,physical 17-minus-19 frequency asymmetry,0.5865955381273853,0.04070416314421776,1.1652506232512827,96
+early_minus_baseline_power_db,instruction contrast in physical 17-minus-19 coordinates,0.36503192802332596,-1.579893309825461,2.216225575690862,96
+early_minus_baseline_power_db,physical 17-minus-19 frequency asymmetry,1.3106088083163536,0.371635971273333,2.2480333311497476,96

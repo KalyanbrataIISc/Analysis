@@ -1,0 +1,9 @@
+channel,source_column,recorded_index_zero_based,downstream_index_zero_based
+C9,ch9_uv,0,0
+C10,ch10_uv,1,1
+C11,ch11_uv,2,2
+C12,ch12_uv,3,3
+C13,ch13_uv,4,4
+C14,ch14_uv,5,5
+C15,ch15_uv,6,6
+C16,ch16_uv,7,7

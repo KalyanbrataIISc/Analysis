@@ -1,0 +1,2 @@
+session,observed_samples,fixed_projected_samples,rolling_projected_samples,rolling_unassigned_samples,rolling_fit_count,gap_events,missing_sequence_samples
+eeg_20261102_185800_to_190647,124217,124217,124214,3,4944,3,6652

@@ -1,0 +1,7 @@
+game,block,recording,game_log,channels,samples,trials,game_log_trials,unmatched_starts,unmatched_stops,signal_gap_events,nonfinite_signal_values,logged_nf_updates,duplicate_nf_rows,median_nf_hop_seconds,max_nf_hop_seconds,feature_rows,metadata_samples_minus_csv,onset_offset_spread_seconds,max_game_duration_error_seconds,note
+Paddle v2,1,eeg_20261030_114700,p23_b01_paddle_multidir_trialdata.csv,16,181160,24,24,0,0,0,0,7246,0,0.1,0.1,14492,1,0.7304019999999696,0.046302000000018495,Complete block
+Paddle v2,2,eeg_20261030_120516,p23_b02_paddle_multidir_trialdata.csv,16,140792,24,24,0,0,0,0,5632,0,0.1,0.1,11264,2,0.7302790000001096,0.045048999999949046,Complete block
+Leaf,1,eeg_20261030_121520,p5_b01_leaves_trialdata.csv,16,165366,24,24,0,0,0,0,6615,0,0.1,0.1,13230,2,0.5820770000000266,0.03625300000000564,Complete block
+Leaf,2,eeg_20261030_122929,p5_b02_leaves_trialdata.csv,16,103617,24,24,0,0,0,0,4145,0,0.1,0.1,8290,3,0.589017999999669,0.02591599999999694,Complete block
+Paddle v2,3,eeg_20261030_124401,p23_b03_paddle_multidir_trialdata.csv,16,19975,4,24,0,1,0,0,801,0,0.1,0.12,1602,3,0.04875500000025568,0.024049999999995464,EEG starts during trial 20; only trials 21-24 complete
+Paddle v2,4,eeg_20261030_124553,p23_b04_paddle_multidir_trialdata.csv,16,37009,0,0,0,0,0,0,1481,0,0.1,0.1,2962,2,,,No trial markers; empty game log
