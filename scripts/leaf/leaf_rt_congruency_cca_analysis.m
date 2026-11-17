@@ -122,14 +122,14 @@ nF = numel(cfg.ssvepHz);
 fprintf('SSVEP frequencies: %s Hz\n', mat2str(cfg.ssvepHz));
 
 %% --------------------- Load, preprocess and pair EEG blocks -----------------
-eegDirs = dir(fullfile(cfg.dataDir, cfg.eegPattern));
+eegDirs = list_dir(cfg.dataDir, cfg.eegPattern);
 eegDirs = eegDirs([eegDirs.isdir]);
 if isempty(eegDirs), error('No EEG folders matching %s in %s', cfg.eegPattern, cfg.dataDir); end
 
 blocks = struct([]);
 for d = 1:numel(eegDirs)
     folder = fullfile(eegDirs(d).folder, eegDirs(d).name);
-    sigFile = dir(fullfile(folder, '*_signals.csv'));
+    sigFile = list_dir(folder, '*_signals.csv');
     if isempty(sigFile), warning('No _signals.csv in %s, skipped', folder); continue; end
     fs = read_fs(folder, cfg.fsDefault);
     [X, marker, chanNames] = read_signals(fullfile(folder, sigFile(1).name), cfg);
@@ -363,7 +363,7 @@ fprintf('Outputs written to %s\n', cfg.outDir);
 
 function runs = load_game_runs(cfg)
 % Every trialdata file, split into runs where TrialNumber restarts (files append across runs).
-files = dir(fullfile(cfg.gameDir, cfg.gamePattern));
+files = list_dir(cfg.gameDir, cfg.gamePattern);
 if isempty(files), error('No game files matching %s in %s', cfg.gamePattern, cfg.gameDir); end
 runs = struct('file', {}, 'block', {}, 'run', {}, 'T', {});
 for i = 1:numel(files)
@@ -383,7 +383,7 @@ end
 
 function fs = read_fs(folder, fsDefault)
 fs = fsDefault;
-cf = dir(fullfile(folder, '*_config.txt'));
+cf = list_dir(folder, '*_config.txt');
 if isempty(cf), return; end
 txt = fileread(fullfile(folder, cf(1).name));
 tok = regexp(txt, 'Sampling Rate[^:]*:\s*([\d.]+)', 'tokens', 'once');
@@ -678,4 +678,14 @@ for i = 1:numel(p.formats)
         otherwise, exportgraphics(fig, [base '.' p.formats{i}], 'Resolution', p.dpi);
     end
 end
+end
+
+function L = list_dir(folder, pattern)
+% dir() that works the same on Windows, macOS and Linux: drops hidden entries (macOS '._*'
+% AppleDouble files and .DS_Store, which match patterns like '*_signals.csv') and sorts by
+% name, since dir's order depends on the operating system.
+L = dir(fullfile(folder, pattern));
+L = L(~startsWith({L.name}, '.'));
+[~, order] = sort({L.name});
+L = L(order);
 end
