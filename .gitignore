@@ -1,5 +1,8 @@
-data/
-
+data/*
+video/*
 # macOS metadata
 .DS_Store
 ._*
+
+# Python bytecode of the illustration scripts
+referenceScript/__pycache__/

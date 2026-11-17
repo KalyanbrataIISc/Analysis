@@ -6,6 +6,7 @@ SSVEP / CCA neurofeedback EEG analysis. See `README.md` for the folder layout an
 
 - **Current analysis is MATLAB, in `scripts/leaf/`.** Python notebooks in `notebooks/` (+ `src/`) are earlier work; don't extend them unless asked.
 - `matlab/RT_acquisition_CCA.m` / `RT_experiment_CCA.m` are the real-time scripts the game runs with. The offline dynamic CCA must stay faithful to them (window, hop, power-iteration CCA, preprocessing).
+- **Illustrations (game videos, diagrams, explanatory figures) are Python, in `referenceScript/`**, never in `scripts/`. Images go to `referenceScript/results/` (not `plots/`), videos to `video/` (git-ignored). Use a dark theme for game illustrations, to match the game. Data analysis stays MATLAB. On Windows run them with Anaconda Python (`C:\ProgramData\anaconda3\python.exe`: numpy, pandas, Pillow, matplotlib) plus ffmpeg on PATH.
 - `Documentation/Games/<Game>.md` is the reference for each game's markers, timing and log columns. Check it before interpreting codes or CSV columns (Leaf: start 31–34 / legacy 20–21, reveal 50, response 40, stop 30; cue C1 = Pointing, C2 = Moving).
 
 ## Script conventions (`scripts/leaf/*.m`)

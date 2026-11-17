@@ -10,6 +10,7 @@ Files are named by **recording date (YYYY-MM-DD)**, so data and plots for one se
 | `scripts/leaf/` | **Current analysis.** Self-contained MATLAB scripts for one day of Leaf-game blocks |
 | `matlab/` | Real-time acquisition/experiment scripts (`RT_acquisition_CCA.m`, `RT_experiment_CCA.m`); the dynamic CCA in `scripts/` follows these |
 | `notebooks/` | Earlier Python analysis notebooks, one per session/question (e.g. `2026-11-04_leaf_dynamics.ipynb`) |
+| `referenceScript/` | Python that rebuilds game frames from the logs: gameplay videos (`video/`, git-ignored) and explanatory figures (`referenceScript/results/`). See its README |
 | `src/` | Python modules imported by the notebooks (`cca.py`, `classical_cca.py`, `emg32_cca.py`, `epoch_cca_spectra.py`, `leaf_block_timing.py`) |
 | `data/<date>/` | Raw recordings (git-ignored): `eeg_*` folders from BciCore and `gameData/` logs |
 | `data/ssvep_stim_frames/` | Stimulus frame-timing logs |
