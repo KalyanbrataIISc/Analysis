@@ -1,5 +1,0 @@
-game,recording,analysis_block,channels,samples,trials,unmatched_starts,signal_gap_events,logged_nf_updates,duplicate_nf_rows
-Paddle,eeg_20261006_153213,2,16,137182,48,0,0,5488,0
-Paddle,eeg_20261006_155629,3,16,107492,48,0,0,4292,0
-Leaf,eeg_20261006_160348,2,16,106878,24,0,0,4274,0
-Leaf,eeg_20261006_161145,3,16,104675,24,0,0,4187,0

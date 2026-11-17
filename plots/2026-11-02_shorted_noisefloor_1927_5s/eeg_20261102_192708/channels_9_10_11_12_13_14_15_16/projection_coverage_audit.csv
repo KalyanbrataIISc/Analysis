@@ -1,2 +1,0 @@
-session,samples,fixed_projected_samples,rolling_projected_samples,unassigned_samples,rolling_fit_count,logged_fits_used,offline_fits_used,schedule
-eeg_20261102_192708,150029,150029,150029,0,5993,0,5993,offline 100 ms schedule (no logged CCA stream)

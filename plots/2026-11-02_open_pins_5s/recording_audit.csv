@@ -1,5 +1,0 @@
-session,label,start_time,source,channels,sample_rate_hz,samples,observed_seconds,wall_duration_seconds,first_seq,last_seq,signal_gap_events,nonfinite_values,nonzero_markers,raw_samples,filtered_samples,feature_rows,logged_cca_updates,duplicate_cca_rows,median_cca_hop_seconds
-eeg_20261102_171301,250sps 10Hz NF open pins,2026-11-02 17:13:01,board-filtered,8,250.0,27433,109.732,111.539,14466,41898,0,0,0,0,27433,2194,1097,0,0.1
-eeg_20261102_171453,250sps 10Hz NF open pins,2026-11-02 17:14:53,board-filtered,8,250.0,103618,414.472,417.465,42329,145946,0,0,0,0,103618,8290,4145,0,0.1
-eeg_20261102_172232,250sps raw open pins,2026-11-02 17:22:32,"raw, unfiltered",8,250.0,131567,526.268,528.49,0,131566,0,0,0,131567,0,0,0,0,
-eeg_20261102_174147,250sps 5Hz NF open pins,2026-11-02 17:41:47,board-filtered,8,250.0,133341,533.364,534.223,86782,220122,0,0,0,0,133341,5334,2667,0,0.2
