@@ -26,7 +26,7 @@ clear; close all; clc;
 
 %% =============================== USER SETTINGS ===============================
 here        = fileparts(mfilename('fullpath'));
-projectRoot = fileparts(here);
+projectRoot = fileparts(fileparts(here));   % scripts/leaf -> project root
 
 % ---- Paths (change cfg.dataDir for another day) ----
 cfg.dataDir     = fullfile(projectRoot, 'data', '2026-11-16');
@@ -38,7 +38,7 @@ cfg.outDir      = fullfile(projectRoot, 'plots', [dayTag '_leaf_matlab']);
 cfg.chronuxDir  = fullfile(projectRoot, 'Toolbox', 'chronux_2_12', 'chronux_2_12', 'spectral_analysis');
 
 % ---- Recording ----
-cfg.fsDefault       = 250;           % used only if the config file has no sampling rate
+cfg.fsDefault       = 2000;           % used only if the config file has no sampling rate
 cfg.channelPattern  = '^ch\d+_uv$';  % EEG columns in _signals.csv
 cfg.channels        = [];            % indices into the matched columns; [] = all
 cfg.minMarkerSamples = 1;            % ignore marker runs shorter than this (real markers can latch for 1 sample)
