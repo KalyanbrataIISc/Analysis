@@ -26,5 +26,11 @@ SSVEP / CCA neurofeedback EEG analysis. See `README.md` for the folder layout an
 
 ## Environment
 
-- Windows, MATLAB R2026a on PATH (`matlab -batch "run('scripts/leaf/leaf_ssvep_analysis.m')"` from the project root). A full day takes a while; run in the background, and say when a change was not executed.
+The project is worked on from both Windows and macOS; scripts must run unchanged on both (use `fullfile`, never `\` or `/` literals in paths).
+
+- **Windows:** MATLAB R2026a is on PATH: `matlab -batch "run('scripts/leaf/leaf_ssvep_analysis.m')"` from the project root.
+- **macOS (Apple Silicon):** MATLAB is *not* on PATH. Call the app binary directly, and use R2026a (R2023a is also installed; don't pick it up by accident):
+  `/Applications/MATLAB_R2026a.app/bin/matlab -batch "run('scripts/leaf/leaf_ssvep_analysis.m')"` from the project root.
+- A full day takes a while; run in the background, and say when a change was not executed.
+- macOS litters the tree with `.DS_Store` and, on copied drives, `._*` files. Never commit them (including the ones under `Toolbox/`), and keep using `list_dir` so they never reach the analysis.
 - `src/__pycache__/` is currently tracked by git; ignore it.
